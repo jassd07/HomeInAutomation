@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue May 11 21:28:05 AEST 2021
+#Tue May 11 21:19:23 AEST 2021
 cucumber-html-0.2.7.jar>central=
+cucumber-html-0.2.7-sources.jar>central=
 cucumber-html-0.2.7.pom>central=
